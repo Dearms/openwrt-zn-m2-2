@@ -1,4 +1,4 @@
-兆能 ZN-M2个人使用Openwrt固件
+兆能 ZN-M2个人使用Openwrt固件（加入魔法上网插件，删掉无线驱动）
 
 CPU:IPQ6000 (4C 1.2GHz+NPU, ARM A53)
 
